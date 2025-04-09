@@ -1,1 +1,1 @@
-# javascript-practice-projects
+# python practice projects
